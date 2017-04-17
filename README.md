@@ -3,7 +3,7 @@
 このボットはLINEbotを作るということとクラス設計の勉強、様々なAPIを触ることを目的として作った。
 
 ## 使ったAPI
-Google Cloud Vision API
+Google Cloud Vision API  
 LINE bot API
 
 ## 注意
